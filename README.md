@@ -1,7 +1,7 @@
 # NASM-IA-32-
 Some assembly programmes for IA-32
 
-Referrence
+Reference
 
 1. https://asmtutor.com
 2. https://cs.lmu.edu/~ray/notes/nasmtutorial/
