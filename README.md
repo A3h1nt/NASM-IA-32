@@ -1,4 +1,4 @@
-# NASM-IA-32-
+# NASM-IA-32
 Some assembly programmes for IA-32
 
 Reference
