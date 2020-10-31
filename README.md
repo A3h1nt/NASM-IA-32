@@ -10,6 +10,6 @@ Reference
 
 # How to run ?
 
-1. nasm -f elf file.asm
-2. ld -m elf-i386 file.out -o file
-3. ./file
+1. nasm -f elf file.asm               //creating the output file
+2. ld -m elf-i386 file.out -o file    //linking the file
+3. ./file                             //executing
